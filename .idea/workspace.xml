@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c4921a7-a884-4461-b9bc-7ff67d97d70b" name="Changes" comment="criando o projeto para exemplo de tipos e variáveis">
-      <change beforePath="$PROJECT_DIR$/1-tiposVariaveis/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-tiposVariaveis/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751586585370</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="criando o projeto para exemplo de tipos e variáveis">
+      <option name="closed" value="true" />
+      <created>1751586660361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1751586660361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="criando o projeto para exemplo de tipos e variáveis">
+      <option name="closed" value="true" />
+      <created>1751586721265</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751586721265</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

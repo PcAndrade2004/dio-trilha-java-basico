@@ -1,0 +1,37 @@
+# Arquivos de compilação do Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de compilação
+/target/
+/build/
+
+# Arquivos de dependência
+*.log
+*.out
+*.bak
+
+# Configurações de IDE
+.idea/
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente do Eclipse
+/.metadata
+/.classpath
+/.project
+/.settings/
+
+# Arquivos temporários do NetBeans
+nbproject/private/
+
+# Arquivos temporários do IntelliJ IDEA
+*.iml
+.idea/
+
+# Arquivo
